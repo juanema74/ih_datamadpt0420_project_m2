@@ -5,6 +5,10 @@ The main objective of this dashboard is selecting the price of the diamond bette
 
 ![diamonds](diamond.png)
 
+
+### 💻**Tableau public link:**
+https://public.tableau.com/profile/juan.de.diego#!/vizhome/Ironhack-DiamondsAnalysisProyect2/DiamondsDashboard?publish=yes
+
 This analysis include:
 - Descriptive statistics, in order to get knowledge about diamonds and their characteristics
 - Data visualizations charts in order to capture a large amount of data all at once in a clear and concise manner
