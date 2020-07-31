@@ -3,16 +3,15 @@ For this project, an exploratory data analysis report have been made, in order t
 
 The main objective of this dashboard is selecting the price of the diamond better fits the buyer, in order to different qualities the diamond posees such as clarity, cut and color, and their influence to the price depending on the carat size.
 
+This analysis include:
+- Descriptive statistics, in order to get knowledge about diamonds and their characteristics
+- Data visualizations charts in order to capture a large amount of data all at once in a clear and concise manner
+
 ![diamonds](diamond.png)
 
 
 ### 💻**Tableau public link:**
 https://public.tableau.com/profile/juan.de.diego#!/vizhome/Ironhack-DiamondsAnalysisProyect2/DiamondsDashboard?publish=yes
-
-This analysis include:
-- Descriptive statistics, in order to get knowledge about diamonds and their characteristics
-- Data visualizations charts in order to capture a large amount of data all at once in a clear and concise manner
-
 
 ### 💻**Data**:
 The Dataset used for this proyect is Diamonds.csv, a Diamonds dataset with more than 40.000 diamonds
