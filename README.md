@@ -8,7 +8,7 @@ The main objective of this dashboard is selecting the price of the diamond bette
 This analysis include:
 - Descriptive statistics, in order to get knowledge about diamonds and their characteristics
 - Data visualizations charts in order to capture a large amount of data all at once in a clear and concise manner
-Show them what it looks like in action.
+
 
 ### 💻**Data**:
 The Dataset used for this proyect is Diamonds.csv, a Diamonds dataset with more than 40.000 diamonds
