@@ -3,7 +3,7 @@ For this project, an exploratory data analysis report have been made, in order t
 
 The main objective of this dashboard is selecting the price of the diamond better fits the buyer, in order to different qualities the diamond posees such as clarity, cut and color, and their influence to the price depending on the carat size.
 
-https://camo.githubusercontent.com/add1c13a42865258b3abfd950b69d9ac2b6c8dbc/68747470733a2f2f796f75726469616d6f6e64746561636865722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30322f596f75726469616d6f6e64746561636865722e6a7067
+![Image]https://camo.githubusercontent.com/add1c13a42865258b3abfd950b69d9ac2b6c8dbc/68747470733a2f2f796f75726469616d6f6e64746561636865722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30322f596f75726469616d6f6e64746561636865722e6a7067
 
 This analysis include:
 - Descriptive statistics, in order to get knowledge about diamonds and their characteristics
