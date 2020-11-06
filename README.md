@@ -10,13 +10,13 @@ This analysis include:
 ![diamonds](diamond.png)
 
 
-### 💻**Tableau public link:**
+### 💻 **Tableau public link:**
 https://public.tableau.com/profile/juan.de.diego#!/vizhome/Ironhack-DiamondsAnalysisProyect2/DiamondsDashboard?publish=yes
 
-### 💻**Data**:
-The Dataset used for this proyect is Diamonds.csv, a Diamonds dataset with more than 40.000 diamonds
+### 💻 **Data**:
+The Dataset used for this project is Diamonds.csv, a Diamonds dataset with more than 40.000 diamonds
 
-### 🙋**Name**
+### **Project Name**
 The Ultimate Diamond Buying Guide
 
 ### 💥**Core technical concepts and inspiration🏃**
@@ -24,6 +24,9 @@ Dinamic dashboard showing automatically the price of the diamond per carat, in o
 You can make a custom diamond depending on the prize and kind of diamond the buyer needs.
 
 Open the dashboard and select the category properties of your selected diamond. The price will be shown in the first graph, and will change the price automatically (on differents Carat sizes) while changing characteristics of clarity, color and cut.
+
+![ddashboard](Tableau_SS.png)
+
 
 ### 💻**Technology stack**
 - Exploratory Analysis dataset: Python, Pandas, Numpy, Seaborn, Matplotlib, Pyplot
@@ -43,7 +46,9 @@ There is no previous requirements to use the dashboard, just open it and start s
     └── README.md
 ```
 
-### 💌**Contact info**
+### 💌 :link: **Contact info**
 - LinkedIn: https://www.linkedin.com/in/juan-de-diego-suanzes/
+- Github: https://github.com/juanema74
+- Tableau: https://public.tableau.com/profile/juan.de.diego#!/?newProfile=&activeTab=0
 - Email: Juandediegosuanzes@gmail.com
 - Phone: 636277330
